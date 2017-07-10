@@ -1,0 +1,13 @@
+{
+  "development": {
+    "use_env_variable": "postgres://ybhjkzdx:NDvcbWqZ34idoYHOynuhlcsaDWXAL2hL@tantor.db.elephantsql.com:5432/ybhjkzdx"
+  },
+  "test": {
+    "username": "TonyMTH",
+    "password": tonymth1989,
+    "database": "todos-test",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
